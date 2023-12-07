@@ -1,0 +1,63 @@
+.amazon-options {
+  display: flex;
+  width: 1799px;
+  background-color: red;
+  height: 700px;
+}
+
+.amazon-opt1 {
+  width: 300px;
+  background-color: rgb(10, 6, 42);
+}
+
+.amazon-opt2 {
+  width: 300px;
+  background-color: rgb(10, 6, 42);
+}
+
+.amazon-opt3 {
+  width: 300px;
+  background-color: rgb(10, 6, 42);
+}
+
+.amazon-opt4 {
+  width: 300px;
+  background-color: rgb(10, 6, 42);
+}
+
+.amazon-opt5 {
+  width: 300px;
+  background-color: rgb(10, 6, 42);
+}
+
+.amazon-opt6 {
+  width: 300px;
+  background-color: rgb(10, 6, 42);
+}
+
+.amazon-opt7 {
+  width: 390px;
+  background-color: rgb(10, 6, 42);
+}
+
+.amazon-music {
+  width: 110px;
+  padding-left: 10px;
+  line-height: 15px;
+  color: white;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.amazon-music:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.paragraph-head {
+  margin-bottom: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+}

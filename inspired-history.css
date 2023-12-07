@@ -1,0 +1,128 @@
+.inspired-history {
+  position: relative;
+  height: 500px;
+  border: none;
+  display: flex;
+  overflow: hidden;
+  column-gap: 20px;
+  margin-top: 40px;
+  height: 380px;
+}
+
+.insp-hist-1 {
+  margin-left: 80px;
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.insp-hist-2 {
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.insp-hist-3 {
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.insp-hist-4 {
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.insp-hist-5 {
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.insp-hist-6 {
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.insp-hist-7 {
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.insp-hist-8 {
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.insp-hist-9 {
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.insp-hist-10 {
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.insp-hist-11 {
+  width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.prev-button-img {
+  width: 60px;
+  background-color: white;
+  transform: rotate(180deg);
+  opacity: 1;
+}
+
+.first-btn {
+  position: absolute;
+  height: 160px;
+  z-index: 10;
+  top: 5850px;
+  left: 10px;
+  opacity: 0;
+  border-radius: 5px;
+  border-color: white;
+}
+
+.next-button-image {
+  width: 60px;
+}
+
+.second-btn {
+  position: absolute;
+  height: 160px;
+  z-index: 10;
+  top: 5850px;
+  left: 1670px;
+  opacity: 0;
+  border-radius: 5px;
+  border-color: white;
+}
+
+.first-btn:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.second-btn:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.ginding {
+  margin-left: 20px;
+  margin-top: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+}

@@ -1,0 +1,52 @@
+.third-1 {
+  position: absolute;
+  width: 180px;
+  top: 69px;
+  left: 20px;
+  height: 140px;
+}
+
+.third-2 {
+  position: absolute;
+  width: 180px;
+  left: 191px;
+  top: 69px;
+  height: 140px;
+}
+
+.third-3 {
+  position: absolute;
+  width: 180px;
+  top: 240px;
+  left: 191px;
+  height: 140px;
+}
+
+.third-4 {
+  position: absolute;
+  width: 180px;
+  top: 240px;
+  left: 20px;
+  height: 190px;
+}
+
+.rd-img1 {
+  width: 130px;
+  height: 100px;
+  padding-top: 5px;
+}
+
+.rd-img2 {
+  width: 130px;
+  height: 100px;
+}
+
+.rd-img3 {
+  width: 130px;
+  height: 100px;
+}
+
+.rd-img4 {
+  width: 130px;
+  height: 100px;
+}

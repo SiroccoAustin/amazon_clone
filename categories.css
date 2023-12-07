@@ -1,0 +1,179 @@
+.categories {
+  display: flex;
+  column-gap: 10px;
+  background-color: rgb(30, 30, 57);
+  height: 50px;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.C1 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 80px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C1:hover {
+  color: orange;
+}
+
+.C2 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 126px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C2:hover {
+  color: orange;
+}
+.C3 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 126px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C3:hover {
+  color: orange;
+}
+.C4 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 80px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C4:hover {
+  color: orange;
+}
+.C5 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 126px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C5:hover {
+  color: orange;
+}
+.C6 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 126px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C6:hover {
+  color: orange;
+}
+.C7 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 80px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C7:hover {
+  color: orange;
+}
+.C8 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 80px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.C8:hover {
+  color: orange;
+}
+.C9 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 120px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C9:hover {
+  color: orange;
+}
+.C10 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 110px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C10:hover {
+  color: orange;
+}
+.C11 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 170px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C11:hover {
+  color: orange;
+}
+.C12 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 80px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C12:hover {
+  color: orange;
+}
+.C13 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 80px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C13:hover {
+  color: orange;
+}
+.C14 {
+  border: none;
+  background-color: rgb(30, 30, 57);
+  color: white;
+  width: 80px;
+  height: 30px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.C14:hover {
+  color: orange;
+}

@@ -1,0 +1,176 @@
+.low-low-div {
+  position: relative;
+  display: flex;
+  margin-top: 40px;
+  width: 1760px;
+  max-height: 400px;
+  height: 380px;
+  overflow: hidden;
+  column-gap: 20px;
+}
+
+.low-div-div-1 {
+  height: 380px;
+  min-width: 400px;
+  background-color: aqua;
+}
+
+.low-div-div-2 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-3 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-4 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-5 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-6 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-7 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-8 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-9 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-10 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-11 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-12 {
+  height: 380px;
+  min-width: 400px;
+  background-color: aqua;
+}
+
+.low-div-div-13 {
+  height: 380px;
+  min-width: 400px;
+  background-color: aqua;
+}
+
+.low-div-div-14 {
+  min-height: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.low-div-div-15 {
+  height: 380px;
+  min-width: 400px;
+  background-color: aqua;
+}
+
+.low-div-div-16 {
+  height: 380px;
+  min-width: 400px;
+  background-color: aqua;
+}
+
+.low-div-div-17 {
+  height: 380px;
+  min-width: 400px;
+  background-color: aqua;
+}
+
+.low-div-div-18 {
+  height: 380px;
+  min-width: 400px;
+  background-color: aqua;
+}
+
+.low-div-div-19 {
+  height: 380px;
+  min-width: 400px;
+  background-color: aqua;
+}
+
+.low-div-div-20 {
+  height: 380px;
+  min-width: 400px;
+  background-color: aqua;
+}
+
+.low-button-low {
+  position: absolute;
+  z-index: 10;
+  width: 90px;
+  height: 150px;
+  top: 2400px;
+  border-radius: 5px;
+  border-color: white;
+  background-color: white;
+  opacity: 0;
+}
+
+.low-button-low1 {
+  position: absolute;
+  z-index: 10;
+  width: 90px;
+  height: 150px;
+  left: 1700px;
+  top: 2400px;
+  border-radius: 5px;
+  border-color: white;
+  background-color: white;
+  opacity: 0;
+}
+
+.low-button-low:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.low-button-low1:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.low-images1 {
+  width: 60px;
+  height: 90px;
+  transform: rotate(180deg);
+}
+
+.low-images2 {
+  width: 60px;
+  height: 90px;
+}

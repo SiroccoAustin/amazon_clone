@@ -1,0 +1,35 @@
+.fourth {
+  position: absolute;
+  width: 400px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.trip {
+  margin-left: 20px;
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.trap {
+  width: 340px;
+  padding-left: 0px;
+}
+
+.link-to-page {
+  position: absolute;
+  width: 340px;
+  top: 487px;
+  height: 20px;
+  background-color: white;
+  color: rgb(82, 82, 220);
+  left: 20px;
+}
+
+.link-to-page:hover {
+  color: rgb(212, 88, 88);
+  text-decoration: underline;
+  cursor: pointer;
+}

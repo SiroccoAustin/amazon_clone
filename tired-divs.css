@@ -1,0 +1,86 @@
+.tired-divs {
+  position: relative;
+  height: 500px;
+  /* border: 1px solid #ddd; */
+  display: flex;
+  overflow: hidden;
+  height: 380px;
+  column-gap: 20px;
+  margin-top: 40px;
+}
+
+.tir-1 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.tir-2 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.tir-3 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.tir-4 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.tir-5 {
+  min-width: 400px;
+  height: 380px;
+  background-color: aqua;
+}
+
+.tired-button {
+  position: absolute;
+  width: 90px;
+  top: 4420px;
+  height: 150px;
+  z-index: 10;
+  border-color: white;
+  border-radius: 5px;
+  background-color: white;
+  opacity: 0;
+}
+
+.tired-button2 {
+  position: absolute;
+  width: 90px;
+  top: 4420px;
+  left: 1700px;
+  height: 150px;
+  z-index: 10;
+  border-color: white;
+  border-radius: 5px;
+  opacity: 0;
+  background-color: white;
+}
+
+.tired-small-images1 {
+  width: 60px;
+  height: 90px;
+  transform: rotate(180deg);
+}
+
+.tired-small-images2 {
+  width: 60px;
+  height: 90px;
+}
+
+.tired-button:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.tired-button2:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}

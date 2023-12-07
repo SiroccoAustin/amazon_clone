@@ -1,0 +1,61 @@
+.inbed {
+  position: absolute;
+  width: 180px;
+  top: 270px;
+  left: 10px;
+}
+
+.inbed2 {
+  position: absolute;
+  width: 180px;
+  left: 200px;
+  top: 40px;
+}
+
+.inbed3 {
+  position: absolute;
+  width: 180px;
+  left: 200px;
+  top: 270px;
+}
+
+.inbed4 {
+  position: absolute;
+  width: 180px;
+  top: 70px;
+  left: 10px;
+  /* height: 700px; */
+}
+
+.sec-1 {
+  width: 180px;
+  height: 178px;
+}
+
+.sec-2 {
+  width: 180px;
+  height: 178px;
+}
+
+.sec-3 {
+  width: 180px;
+}
+
+.sec-4 {
+  width: 180px;
+}
+.bottom-line {
+  position: absolute;
+  border: none;
+  top: 490px;
+  left: 20px;
+  width: 340px;
+  padding-left: 10px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(67, 67, 201);
+}
+.bottom-line:hover {
+  text-decoration: underline;
+  color: rgb(233, 68, 68);
+  cursor: pointer;
+}

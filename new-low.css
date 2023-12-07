@@ -1,0 +1,200 @@
+.new-low {
+  display: flex;
+  width: 1700px;
+  margin-top: 40px;
+  column-gap: 20px;
+  margin-left: 20px;
+}
+
+.new-low-1 {
+  position: relative;
+  border: 1px solid white;
+  width: 510px;
+  height: 540px;
+  background-color: white;
+}
+
+.new-low-2 {
+  position: relative;
+  border: 1px solid white;
+  background-color: white;
+  width: 510px;
+  height: 540px;
+}
+
+.new-low-3 {
+  position: relative;
+  border: 1px solid white;
+  background-color: white;
+  width: 510px;
+  height: 540px;
+}
+
+.new-low-4 {
+  position: relative;
+  border: 1px solid white;
+  background-color: white;
+  width: 510px;
+  height: 540px;
+}
+
+.nlw-1 {
+  margin-left: 20px;
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 27px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nlw-2 {
+  width: 360px;
+  height: 350px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background-color: black;
+}
+
+.nlw-2-img {
+  width: 360px;
+  height: 350px;
+}
+
+.nlw2-1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.nlw2-2 {
+  position: absolute;
+  width: 370px;
+  margin-left: 20px;
+  height: 210px;
+  background-color: black;
+  margin-top: 20px;
+}
+
+.nlw2-2-img {
+  width: 370px;
+  height: 210px;
+}
+
+.nlw2-3 {
+  position: absolute;
+  width: 110px;
+  background-color: yellow;
+  left: 30px;
+  height: 110px;
+  top: 300px;
+}
+
+.nlw2-3-img {
+  width: 110px;
+  height: 110px;
+}
+
+.nlw2-4 {
+  position: absolute;
+  width: 110px;
+  background-color: rgb(0, 60, 255);
+  left: 148px;
+  height: 110px;
+  top: 300px;
+}
+
+.nlw2-4-img {
+  width: 110px;
+  height: 110px;
+}
+
+.nlw2-5 {
+  position: absolute;
+  width: 110px;
+  background-color: rgb(255, 0, 0);
+  left: 266px;
+  height: 110px;
+  top: 300px;
+}
+
+.nlw2-5-img {
+  width: 110px;
+  height: 110px;
+}
+
+.nlw2-6 {
+  position: absolute;
+  top: 485px;
+  margin-left: 30px;
+  color: rgb(108, 108, 242);
+}
+
+/* another set of divs */
+
+.nwl3-1 {
+  margin-top: 5px;
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 27px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nwl3-2 {
+  width: 360px;
+  height: 350px;
+  margin-left: 20px;
+  margin-top: 30px;
+  background-color: black;
+}
+
+.nwl3-2-img {
+  width: 360px;
+  height: 350px;
+}
+
+.nlw-3 {
+  background-color: white;
+  margin-top: 80px;
+  margin-left: 20px;
+  width: 280px;
+  color: rgb(0, 60, 255);
+}
+
+.nwl3-3 {
+  margin-left: 20px;
+  width: 350px;
+  margin-top: 70px;
+  color: rgb(66, 110, 252);
+}
+
+/* another set of divs */
+.nwl4-1 {
+  margin-top: 5px;
+  margin-left: 20px;
+  font-size: 27px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nwl4-2 {
+  width: 360px;
+  height: 350px;
+  margin-left: 20px;
+  margin-top: 30px;
+  background-color: yellow;
+}
+
+.nwl4-2-img {
+  width: 360px;
+  height: 350px;
+}
+
+.nwl4-3 {
+  margin-top: 70px;
+  height: 20px;
+  background-color: white;
+  width: 300px;
+  margin-left: 20px;
+  color: rgb(66, 110, 252);
+}

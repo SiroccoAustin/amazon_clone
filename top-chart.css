@@ -1,0 +1,161 @@
+.hearder {
+  display: flex;
+  /* grid-template-columns: 1fr 1fr 50px 1fr 1fr 1fr 1fr; */
+  /* justify-content: space-between; */
+  column-gap: 10px;
+  background-color: rgb(18, 18, 33);
+  height: 85px;
+  align-items: center;
+  margin-top: -8px;
+}
+
+.B1 {
+  color: white;
+  width: 110px;
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.B1:hover {
+  cursor: pointer;
+  border: 1px solid white;
+}
+
+.B2 {
+  display: flex;
+  color: white;
+  width: 800px;
+  margin-left: 30px;
+}
+
+.B3 {
+  color: white;
+  margin-left: 10px;
+  width: 70px;
+}
+
+.B3:hover {
+  cursor: pointer;
+  border: 1px solid white;
+}
+
+.B4 {
+  color: white;
+  margin-left: 50px;
+}
+
+.B4:hover {
+  cursor: pointer;
+  border: 1px solid white;
+}
+
+.B5 {
+  color: white;
+  margin-left: 90px;
+  width: 110px;
+  line-height: 5px;
+  padding-left: 30px;
+}
+
+.B5:hover {
+  cursor: pointer;
+  border: 1px solid white;
+}
+
+.B6 {
+  display: flex;
+  position: relative;
+  color: white;
+  margin-left: 100px;
+  width: 110px;
+  padding-left: 30px;
+  height: 40px;
+  padding-top: 20px;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.B6:hover {
+  cursor: pointer;
+  border: 1px solid white;
+}
+
+.B7 {
+  color: rgb(242, 25, 25);
+}
+
+.img {
+  width: 90px;
+}
+
+.search {
+  width: 800px;
+  height: 40px;
+}
+
+.search-button {
+  margin-left: -8px;
+  border: none;
+  height: 46px;
+  width: 80px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: rgb(246, 188, 79);
+}
+
+.right-button {
+  border: none;
+  margin-right: -3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  width: 80px;
+}
+.country {
+  width: 20px;
+}
+
+.american-btn {
+  width: 65px;
+  height: 40px;
+  background-color: rgb(18, 18, 33);
+}
+.arrow-down {
+  width: 20px;
+  height: 10px;
+}
+
+.last-bottom{
+  background-color:rgb(10, 6, 42);
+  width: 1799px;
+}
+
+.last-b1{
+  display: flex;
+  justify-content: center;
+  column-gap: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.opc1:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.opc2:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.opc3:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.last-bottom2{
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}

@@ -1,0 +1,46 @@
+.btn-div1 {
+  position: absolute;
+  top: 200px;
+  left: 50px;
+  height: 200px;
+  z-index: 10;
+}
+
+.btn-div2 {
+  position: absolute;
+  top: 200px;
+  left: 1670px;
+  height: 200px;
+  z-index: 10;
+}
+
+.btn1 {
+  width: 90px;
+  height: 190px;
+  transform: rotate(180deg);
+  opacity: 0;
+  border: none;
+  border-radius: 15px;
+}
+
+.btn2 {
+  height: 188px;
+  opacity: 0;
+  border-radius: 15px;
+  border: none;
+}
+
+.icon{
+  width: 70px;
+  height: 130px;
+}
+
+.btn1:hover{
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+.btn2:hover{
+  opacity: 0.4;
+  cursor: pointer;
+}
